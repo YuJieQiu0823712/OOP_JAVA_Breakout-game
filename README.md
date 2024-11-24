@@ -11,7 +11,7 @@ This project utilize:
 * Apply defensive programming or contractual programming
 * Enforce behavioural subtyping and encapsulation (immutable type)
 
-![alt text](video_demo.gif)
+![alt text](high_quality_video_demo.gif)
 
 1 'Brown sturdy blocks' are harder to destruct than normal blocks.
 
