@@ -11,7 +11,7 @@ This project utilize:
 * Apply defensive programming or contractual programming
 * Enforce behavioural subtyping and encapsulation (immutable type)
 
-[Watch the demo video](./video_demo.mp4)
+![alt text](video_demo.gif)
 
 1 'Brown sturdy blocks' are harder to destruct than normal blocks.
 
@@ -25,7 +25,4 @@ This project utilize:
 5 A moving paddle affects the speed of a ball. Balls above the speed threshold are painted red otherwise yellow.
 
 6 The paddle change color when the  ball hit Blue replicator block.
-
-
-<video controls src="video_demo.mp4" title="Demo Video"></video>
 
