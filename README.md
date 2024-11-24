@@ -1,4 +1,4 @@
-# Breakout Game
+# Breakout Game Assignment
 
 The project consists in writing a simple breakout game in the Java programming language.
 
@@ -26,3 +26,5 @@ This project leverages the following key concepts:
 
 6 The paddle change color when the ball hit blue replicator block.
 
+
+Note: Task A consists in completing TODO part of the implementation, task B consists in writing unit-tests to uncover the flaws and fix the flaws. 
