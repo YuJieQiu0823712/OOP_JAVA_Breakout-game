@@ -27,4 +27,5 @@ This project utilize:
 6 The paddle change color when the  ball hit Blue replicator block.
 
 
+<video controls src="video_demo.mp4" title="Demo Video"></video>
 
