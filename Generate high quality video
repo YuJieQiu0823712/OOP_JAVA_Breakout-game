@@ -1,0 +1,8 @@
+1. Generate the Palette
+
+>> ffmpeg -i video_demo.mp4 -vf "fps=20,scale=1200:-1,palettegen" palette.png
+
+2. Use the Palette to Create the high_quality_video_demo.gif
+
+>> ffmpeg -i video_demo.mp4 -i palette.png -lavfi "fps=20,scale=1200:-1 [x]; [x][1:v] paletteuse" high_quality_video_demo.gif
+

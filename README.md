@@ -24,5 +24,5 @@ This project utilize:
 
 5 A moving paddle affects the speed of a ball. Balls above the speed threshold are painted red otherwise yellow.
 
-6 The paddle change color when the  ball hit Blue replicator block.
+6 The paddle change color when the ball hit blue replicator block.
 
