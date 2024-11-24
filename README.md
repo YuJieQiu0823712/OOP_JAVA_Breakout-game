@@ -6,7 +6,7 @@ The goal of Breakout is to move a rectangular paddle around in order to prevent 
 This way the ball(s) may continue to destroy blocks that are spread around the game field. 
 The game is won when no blocks and at least 1 ball remain. If no balls remain on the field, the game is lost.
 
-This project utilize:
+This project leverages the following key concepts::
 * Employ inheritance and abstract classes (polymorphism)
 * Apply defensive programming or contractual programming
 * Enforce behavioural subtyping and encapsulation (immutable type)
